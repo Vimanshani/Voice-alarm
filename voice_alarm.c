@@ -4,10 +4,10 @@
 #include <windows.h>
 
 int main() {
-    char audio1FilePath[] = "C:\\Users\\user\\Desktop\\c_cause_work\\org.wav";
+    char audio1FilePath[] = "C:\\Users\\user\\Desktop\\c_cause_work\\ORG.mp3";
     // Replace with your voice recording file path
-    char audio2FilePath[] = "C:\\Users\\user\\Desktop\\c_cause_work\\morning.wav";
-    char audio3FilePath[] = "C:\\Users\\user\\Desktop\\c_cause_work\\night.wav";
+    char audio2FilePath[] = "C:\\Users\\user\\Desktop\\c_cause_work\\MORNING.mp3";
+    char audio3FilePath[] = "C:\\Users\\user\\Desktop\\c_cause_work\\NIGHT.mp3";
     int alarmHour, alarmMinute;
 
     printf("Enter the alarm time (HH:MM): ");
